@@ -1,0 +1,23 @@
+print("How old are you?", end=' ')
+age = input()
+print("How tall are you?", end=' ')
+height = input()
+print("How much do you weight?", end=' ')
+weight = input()
+
+print(f"So, you're {age} old, {height} tall and {weight} heavy.")
+
+print("What is your car?", end=' ')
+car = eval(input())
+print("What is you bike?", end=' ')
+bike = input("Lol")
+print(f"Your car is {car}")
+print(car, type(car))
+print(f"Your bike is {bike}")
+print(bike, type(bike))
+
+print("Gibe me sum numbah", ' ')
+a = int(input())
+print("Gibe me second numbah boi, I'll sum shit up...", ' ')
+b = int(input())
+print(f"Da sum is", a + b)
