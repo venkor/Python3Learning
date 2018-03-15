@@ -81,3 +81,7 @@ try:
 
 except EOFError:
     print("\nBye")
+
+asf
+# To jest test z windowsa.
+#No i nowy...
